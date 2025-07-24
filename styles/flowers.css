@@ -83,3 +83,24 @@
     margin: 0 auto;
     max-width: 1440px;
 }
+.product-name{
+    margin-left: 70px;
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+.product-price{
+    margin-left: 95px;
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin-top: 5px;
+}
+.sell-btn{
+    margin-bottom: 20px;
+    background-color: #E95A08;
+    width: 270px;
+    height: 50px;
+    color: #FFFFFF;
+    font-size: 1rem;
+    font-weight: 600;
+    border: none;
+}
