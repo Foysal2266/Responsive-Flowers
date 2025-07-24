@@ -63,3 +63,23 @@
     justify-content: space-between;
     align-items: center;
 }
+.sell{
+    text-align: center;
+}
+.sell-title{
+    font-weight: 700;
+    font-size: 3.1rem;
+}
+.sell-description{
+    font-size: 1.3rem;
+    color: rgba(0, 0, 0, 0.5);    
+    height: 54px;
+    
+}
+.sell-pd{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 5px;
+    margin: 0 auto;
+    max-width: 1440px;
+}
