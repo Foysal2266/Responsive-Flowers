@@ -230,7 +230,33 @@
     width: 186px;
     height: 50px;
 }
-
+.footer-part{
+    max-width: 1440px;
+    margin: 0 auto;
+    justify-content: space-around;
+}
+.footer-img{
+    margin-top: 50px;
+}
+.footer-des{
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 1.3rem;
+    width: 359px;
+}
+.footer-li{
+    list-style: none;
+    color: rgba(107, 114, 128, 1);
+}
+.last-item{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 50px;
+    margin-top: 50px;
+}
+.logo{
+    margin-top: 50px;
+    row-gap: 5px;
+}
 
 
 
