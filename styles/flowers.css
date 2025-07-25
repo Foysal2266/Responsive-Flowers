@@ -65,6 +65,8 @@
 }
 .img{
     width: 100%;
+    margin-top: -150px;
+
 }
 .sell{
     text-align: center;
@@ -108,7 +110,7 @@
     border: none;
 }
 .flower-lover-description{
-    max-width:540px;
+    max-width:640px;
     font-size: 1.3rem;
     color: rgba(0, 0, 0, 0.5);
     margin-right: 250px;
@@ -119,6 +121,8 @@
     margin: 0 auto;
     justify-content: space-between;
     margin-top: 210px;
+    gap: 80px;
+    align-items: center;
     
 
 }
@@ -256,6 +260,14 @@
 .logo{
     margin-top: 50px;
     row-gap: 5px;
+}
+.badge{
+    width: 250px;
+    height: 250px;
+    margin-left: 300px;
+    margin-bottom: 150px;
+
+
 }
 
 
