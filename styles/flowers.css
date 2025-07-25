@@ -184,6 +184,7 @@
     filter: opacity();
     border-radius: 10px;
     margin-top: 20px;
+    background-repeat: no-repeat;
 }
 .zabo{
     background-image: url("../assets/deal-zabo.png");
